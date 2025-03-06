@@ -1,0 +1,68 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This repository contains materials for the April 2025 SPC Openscience meeting.\nView slides in full screen",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#meeting-schedule",
+    "href": "index.html#meeting-schedule",
+    "title": "Home",
+    "section": "Meeting Schedule",
+    "text": "Meeting Schedule\nThe schedule for the meeting is: (note this is flexible and will be updated at the end of each day)\n\nDay 1\n\n\n\nTime\nModule\n\n\n\n\n09:00-09:15\nWelcome and introductions",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "assets/day-1-welcome.html#section",
+    "href": "assets/day-1-welcome.html#section",
+    "title": "Open Science Workflow Training for ISC",
+    "section": "",
+    "text": "Welcome to SPC Openscience meeting\nApril 2025"
+  },
+  {
+    "objectID": "assets/day-1-welcome.html#introductions",
+    "href": "assets/day-1-welcome.html#introductions",
+    "title": "Open Science Workflow Training for ISC",
+    "section": "Introductions",
+    "text": "Introductions\n Nicholas  Ducharme-Barth"
+  },
+  {
+    "objectID": "assets/day-1-welcome.html#workshop-materials",
+    "href": "assets/day-1-welcome.html#workshop-materials",
+    "title": "Open Science Workflow Training for ISC",
+    "section": "Workshop Materials",
+    "text": "Workshop Materials\n\nAll presentations can be found on the workshop website.\n\nhttps://n-ducharmebarth-noaa.github.io/2025-spc-openscience\n\nCode can be found in the workshop repository.\n\nhttps://github.com/n-ducharmebarth-noaa/2025-spc-openscience\n\n\n\n\n\n\n\n\nImportant\n\n\nMake sure you have created a GitHub account before we start."
+  },
+  {
+    "objectID": "assets/day-1-welcome.html#why-open-science",
+    "href": "assets/day-1-welcome.html#why-open-science",
+    "title": "Open Science Workflow Training for ISC",
+    "section": "Why Open Science?",
+    "text": "Why Open Science?\n\n\nStandardized workflows and efficiency\n\n\n\n\n\nImprove and support collaboration\n\n\n\n\n\nEnsure our science is truly reproducible\n\n\n\n\n\nProvide tools for sharing and communicating our work"
+  },
+  {
+    "objectID": "assets/day-1-welcome.html#topics-we-will-cover",
+    "href": "assets/day-1-welcome.html#topics-we-will-cover",
+    "title": "Open Science Workflow Training for ISC",
+    "section": "Topics we will cover",
+    "text": "Topics we will cover\n\n\nCodespaces, and reproducible R environments\n\n\n\n\nTransparent Assessment Framework (TAF)\n\n\n\n\nReproducible workflows using software containers\n\n\n\n\nCreating reproducible reports and presentations\n\n\n\n\nCreating websites to share results"
+  },
+  {
+    "objectID": "assets/web-about-nd.html",
+    "href": "assets/web-about-nd.html",
+    "title": "Nicholas Ducharme-Barth",
+    "section": "",
+    "text": "Nicholas Ducharme-Barth joined the Pacific Islands Fisheries Science Center in 2021. Previously, Nicholas worked at the Pacific Community (SPC) conducting pelagic stock assessments for the Western and Central Pacific Fisheries Commission (WCPFC). He received his B.S. in Mathematics from the College of William & Mary and his Ph. D. in Fisheries and Aquatic Sciences from the University of Florida.\n\n\n Back to top",
+    "crumbs": [
+      "Contact us",
+      "Nicholas Ducharme-Barth"
+    ]
+  }
+]
