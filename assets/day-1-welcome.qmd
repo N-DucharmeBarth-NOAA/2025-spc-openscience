@@ -1,0 +1,88 @@
+---
+format: 
+ revealjs:
+  theme: [default, customizations/presentation-custom.scss]
+  footer: "SPC Openscience meeting 2025"
+  logo: static/noaa-fisheries-logo.png
+  css: customizations/logo.css
+  slide-number: true
+  revealjs-plugins:
+  - codewindow
+  mermaid-format: svg
+embed-resources: true
+#bibliography: customizations/osg.bib
+---
+
+
+## {.center}
+::: {.titlebox style="text-align:center; font-size: 1.25em;"}
+
+[Welcome to SPC Openscience meeting]{.blue-title}
+
+[April 2025]{.blue style="font-size:0.5em;"}
+:::
+
+
+## Introductions  
+
+
+![](static/nd.jpg){.absolute top="20%" left="0%" width="35%" style="max-height: unset; max-width: unset; box-shadow: 0 0 2rem 0 rgba(0, 0, 0, .5); border-radius: 5px;"}
+[Nicholas <br> Ducharme-Barth]{.absolute bottom="10%" left="0%" style="font-size:0.75em;"}
+
+<!-- Add for Arni & Kyuhan -->
+
+
+## Workshop Materials  
+
+*   All presentations can be found on the [workshop website](https://n-ducharmebarth-noaa.github.io/2025-spc-openscience){preview-link="true"}.  
+    *  https://n-ducharmebarth-noaa.github.io/2025-spc-openscience
+
+*   Code can be found in the [workshop repository](https://github.com/n-ducharmebarth-noaa/2025-spc-openscience){preview-link="true"}. 
+    *  https://github.com/n-ducharmebarth-noaa/2025-spc-openscience
+
+:::{.callout-important}
+Make sure you have created a GitHub account before we start. 
+:::
+
+
+## Why Open Science?  
+
+::: {.fragment .fade-in fragment-index=1}
+*  Standardized workflows and efficiency  
+::: 
+
+::: {.fragment .fade-in fragment-index=2}
+*  Improve and support collaboration  
+::: 
+
+::: {.fragment .fade-in fragment-index=3}
+*  Ensure our science is truly reproducible  
+::: 
+
+::: {.fragment .fade-in fragment-index=4}
+*  Provide tools for sharing and communicating our work
+::: 
+
+## Topics we will cover 
+
+::: {.fragment .fade-in fragment-index=1}
+*  Codespaces, and reproducible R environments
+::: 
+
+::: {.fragment .fade-in fragment-index=2}
+*  Transparent Assessment Framework ([TAF](https://www.ices.dk/data/assessment-tools/Pages/transparent-assessment-framework.aspx))
+::: 
+
+::: {.fragment .fade-in fragment-index=3}
+*  Reproducible workflows using software containers
+::: 
+
+::: {.fragment .fade-in fragment-index=4}
+*  Creating reproducible reports and presentations
+::: 
+
+::: {.fragment .fade-in fragment-index=5}
+*  Creating websites to share results 
+::: 
+
+# Let's get started!

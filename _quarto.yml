@@ -1,0 +1,40 @@
+project:
+  type: website
+  resources:
+   - assets/*
+
+website:
+  title: "Open Science Workflow Training for ISC"
+  reader-mode: true
+  site-url: "https://n-ducharmebarth-noaa.github.io/2025-spc-openscience" 
+  repo-url: "https://github.com/n-ducharmebarth-noaa/2025-spc-openscience"
+  repo-actions: [source, issue]
+  search: true
+  back-to-top-navigation: true
+  bread-crumbs: false
+  sidebar:
+    collapse-level: 1
+    style: "floating"
+    search: true
+    tools:
+      - icon: github
+        href: https://github.com/N-DucharmeBarth-NOAA/2025-spc-openscience
+    contents: 
+      - text: "Home"
+        file: index.qmd
+      - section: "Contact us"
+        contents:
+        - text: "Nicholas Ducharme-Barth"
+          file: assets/web-about-nd.qmd
+      - section: "Support"
+        contents:
+        - text: "Submit an issue"
+          href: https://github.com/N-DucharmeBarth-NOAA/2025-spc-openscience/issues/new/choose
+
+format: 
+  html:
+    toc: true
+    toc-expand: false
+    theme:
+      - default
+      - assets/customizations/website-custom.scss

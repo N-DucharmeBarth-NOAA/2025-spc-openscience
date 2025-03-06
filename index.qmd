@@ -1,0 +1,25 @@
+---
+title: "Home"
+format: 
+  html:
+    toc: false
+---
+
+This repository contains materials for the April 2025 SPC Openscience meeting. 
+
+{{< revealjs file="assets/day-1-welcome.html" height="500px" class="ratio ratio-16x9" >}}
+
+<br>
+
+## Meeting Schedule  
+The schedule for the meeting is: (note this is flexible and will be updated at the end of each day) 
+
+### Day 1  
+
+|Time    |Module  |
+|--------|--------|
+|09:00-09:15| Welcome and introductions|
+
+
+
+
