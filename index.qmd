@@ -19,7 +19,7 @@ The schedule for the meeting is: (note this is flexible and will be updated at t
 |Time    |Module  |
 |--------|--------|
 |09:00-09:15| Welcome and introductions|
-
+|09:15-09:30| Reproducible R environments|
 
 
 
