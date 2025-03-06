@@ -1509,7 +1509,7 @@
     },
     "systemfonts": {
       "Package": "systemfonts",
-      "Version": "1.2.1",
+      "Version": "1.1.0",
       "Source": "Repository",
       "Type": "Package",
       "Title": "System Native Font Finding",
@@ -1523,28 +1523,22 @@
       ],
       "Suggests": [
         "covr",
-        "farver",
-        "graphics",
         "knitr",
         "rmarkdown",
-        "testthat (>= 2.1.0)"
+        "testthat (>= 2.1.0)",
+        "tools"
       ],
       "LinkingTo": [
         "cpp11 (>= 0.2.1)"
       ],
       "VignetteBuilder": "knitr",
       "Encoding": "UTF-8",
-      "RoxygenNote": "7.3.2",
+      "RoxygenNote": "7.3.1",
       "SystemRequirements": "fontconfig, freetype2",
       "Config/Needs/website": "tidyverse/tidytemplate",
       "Imports": [
-        "grid",
-        "jsonlite",
-        "lifecycle",
-        "tools",
-        "utils"
+        "lifecycle"
       ],
-      "Config/build/compilation-database": "true",
       "NeedsCompilation": "yes",
       "Author": "Thomas Lin Pedersen [aut, cre] (<https://orcid.org/0000-0002-5147-4711>), Jeroen Ooms [aut] (<https://orcid.org/0000-0002-4035-0289>), Devon Govett [aut] (Author of font-manager), Posit, PBC [cph, fnd]",
       "Maintainer": "Thomas Lin Pedersen <thomas.pedersen@posit.co>",
